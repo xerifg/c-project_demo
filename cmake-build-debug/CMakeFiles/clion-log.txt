@@ -1,0 +1,5 @@
+/opt/clion/clion-2020.3.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/xrf/CLionProjects/test00
+Opencv version: 4.2.0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/xrf/CLionProjects/test00/cmake-build-debug

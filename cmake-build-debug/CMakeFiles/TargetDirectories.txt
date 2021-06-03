@@ -1,0 +1,7 @@
+/home/xrf/CLionProjects/test00/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xrf/CLionProjects/test00/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xrf/CLionProjects/test00/cmake-build-debug/CMakeFiles/Graphical_UI.dir
+/home/xrf/CLionProjects/test00/cmake-build-debug/CMakeFiles/main.dir
+/home/xrf/CLionProjects/test00/cmake-build-debug/CMakeFiles/KMeanPoints.dir
+/home/xrf/CLionProjects/test00/cmake-build-debug/CMakeFiles/video.dir
+/home/xrf/CLionProjects/test00/cmake-build-debug/CMakeFiles/realsense_video.dir
