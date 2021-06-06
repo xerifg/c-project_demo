@@ -11,7 +11,7 @@ include_directories(
         ${catkin_INCLUDE_DIRS}
         ${OpenCV_INCLUDE_DIRS}
 )
-
+link_directories(${OpenCV_LIB_DIR})
 
 add_executable(main main.cpp)
 
@@ -28,3 +28,7 @@ target_link_libraries(realsense_video  ${DEPENDENCIES} )
 
 add_executable(Graphical_UI Graphical_UI.cpp)
 target_link_libraries(Graphical_UI  ${OpenCV_LIBS})
+
+add_executable(Histogram_Filter Histogram_Filter.cpp)
+target_link_libraries(Histogram_Filter  ${OpenCV_LIBS})
+

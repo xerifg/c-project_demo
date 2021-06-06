@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/kmean.dir/KMeanPoints.cpp.o  -o kmean 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/vide.dir/video.cpp.o  -o vide 
