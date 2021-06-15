@@ -32,3 +32,6 @@ target_link_libraries(Graphical_UI  ${OpenCV_LIBS})
 add_executable(Histogram_Filter Histogram_Filter.cpp)
 target_link_libraries(Histogram_Filter  ${OpenCV_LIBS})
 
+add_executable(Image_preprocess_segmentation Image_preprocess_segmentation.cpp utils/MultipleImageWindow.cpp)
+target_link_libraries(Image_preprocess_segmentation  ${OpenCV_LIBS})
+
